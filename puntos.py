@@ -70,5 +70,10 @@ if data['status'] == 'OK':
     print('Los datos de la ruta han sido guardados en route_points.csv y route_points.txt')
 else:
     print('Error al obtener la ruta:', data['status'])
+<<<<<<< HEAD
 
 print ("hola es la feature 1")
+=======
+    
+print("hola esta es la feature2")
+>>>>>>> feature2
